@@ -34,6 +34,7 @@ h1 {
 @media screen and (max-width: 400px) {
   .container {
     background-color: rgba(0, 0, 0, 0.4);
+    height: 90vh;
   }
   h1 {
     letter-spacing: unset;
