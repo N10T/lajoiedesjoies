@@ -36,7 +36,7 @@ a {
 
 @media screen and (max-width: 400px) {
   .container {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.2);
     height: 100vh;
   }
   h1 {
@@ -44,7 +44,7 @@ a {
     font-weight: 200;
   }
   .filtre {
-    background-image: url(./public/background2.jpg);
+    background-image: url(./public/background-mobile.gif);
     background-size: cover;
   }
 }
